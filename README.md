@@ -1,2 +1,4 @@
 # Real-Time-Chat-App
-Dependencis :- Realtime chat engine, axios, 
+Dependencies :- Realtime chat engine, Axios.
+Works only on pc or laptops.
+
